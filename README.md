@@ -1,7 +1,7 @@
 # lab01- sumador 
 ## Alejandro Zapata
 
-## informe de laoratorio 
+## informe de laboratorio 
 
 ### sumador 
 Entregable 1: Comentarios sobre sum1bcc_primitive.v
